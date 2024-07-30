@@ -3,6 +3,7 @@ Company:CodTech
 ID:CT4SQL4338
 Domain:SQL
 Duration:july to August
+MENTOR:Muzammil Ahmed
 Overview Of the project
 PROJECT:STUDENT  DATABASE MANAGEMENT SYSTEM
 OBJECTIVE:
